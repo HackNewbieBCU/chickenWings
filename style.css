@@ -2,3 +2,8 @@ img{
   width: auto;
   height: auto;
 }
+welcome{
+    color: red;
+    font-style: italic;
+    font-size: 20px
+}

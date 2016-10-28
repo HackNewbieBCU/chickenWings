@@ -1,0 +1,27 @@
+<html>
+    <head>
+    <title>Many Hilarious Images</title>
+    <link rel="stylesheet" type="text/css" href="./style/main.css"/>
+    </head>
+
+    <body>
+    <nav>
+    <h2>GIFs and Images Galore</h2>
+    <ul>
+    <li>Home</li>
+    <li>Funny Images and Gifs</li>
+    </ul>
+    </nav>
+    
+    <section id="Heading">
+    <div class="other">
+        <h7>Welcome</h7>
+        <h8>Lovers of comedic gifs and pictures</h8>
+    </div>
+    </section>
+        
+    <section id="icon">
+       
+        <img src="/Gifs/carschicken.gif" style="width:250px;height:300px;" alt="car racing">
+        </section>
+     
